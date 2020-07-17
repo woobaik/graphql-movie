@@ -1,0 +1,10 @@
+{
+  "name": "graphQL-movie",
+  "version": "1.0.0",
+  "description": "Movie API",
+  "main": "index.js",
+  "repository": "https://github.com/woobaik/graphql-movie.git",
+  "author": "Joungwoo Baik<joungwoo.baik@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
